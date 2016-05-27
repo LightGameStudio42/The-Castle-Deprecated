@@ -1,3 +1,4 @@
 .diagsession 
 Debug/
-Release
+Release/
+SFMLtest/
